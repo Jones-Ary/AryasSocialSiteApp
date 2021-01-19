@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86839916857",
+    "project_id": "arya-ssocialsiteapp",
+    "storage_bucket": "arya-ssocialsiteapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86839916857:android:a870cda14f2e9db162d0e8",
+        "android_client_info": {
+          "package_name": "com.genesis.aryassocialsiteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86839916857-h8q3s74v35j501atpbuuc6hkumutqd6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz_BjM0rIbgWXorFFC7dKdMnF8Drjfojo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86839916857-h8q3s74v35j501atpbuuc6hkumutqd6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

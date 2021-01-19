@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Arya\'sSocialSiteApp</string>
+    <string name="facebook_app_id">694456607909478</string>
+    <string name="fb_login_protocol_scheme">fb694456607909478</string>
+
+
+</resources>
